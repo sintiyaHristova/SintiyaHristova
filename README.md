@@ -1,6 +1,6 @@
 ### Hi there! 👋 I am Sintiya! <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" style="width: 40px; display: inline-block;"></a>
 ### And I'm studying Software Engineering in Software University, Bulgaria. <img src="https://camo.githubusercontent.com/7d5c1327f28f30dd3b242d60c92fa399051bd5765af36f7c8df5138ac67d8f7b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6659536e486c75667365636f38466839335a2f67697068792e676966" style="width: 40px; display: inline-block;">
-<img src="https://user-images.githubusercontent.com/104487003/214609212-7ed52c24-1f90-427f-9d5b-b8167d19d226.png" style="width: 700px; display: inline-block;"></a>
+<img src="https://user-images.githubusercontent.com/104487003/214609212-7ed52c24-1f90-427f-9d5b-b8167d19d226.png" style="width: 650px; display: inline-block;"></a>
 
 <img src="https://user-images.githubusercontent.com/104487003/214592874-ae5a9e43-af0a-4bb8-89e2-cca4e2a2cddd.png" style="width: 200px; display: inline-block;"></a>
 <ul>
