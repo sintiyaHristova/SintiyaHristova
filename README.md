@@ -21,7 +21,7 @@
   | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sintiyahristova&show_icons=true&theme=gruvbox_light" /> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sintiyahristova&layout=compact&theme=gruvbox_light" /></a> |
 | ------------- | ------------- |
 
-## Connect with me:
+## Connect with me <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" />:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sintia-hristova-146617149/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
