@@ -19,7 +19,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src = "https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic" alt="exjs" width="100" height="40"/>
+  <img src = "https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic" alt="exjs" width="120" height="35"/>
   
   
   | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sintiyahristova&show_icons=true&theme=solarized-light" /> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sintiyahristova&layout=compact&theme=solarized-light" /></a> |
